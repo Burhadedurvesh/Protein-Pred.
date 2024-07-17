@@ -1,0 +1,6 @@
+streamlit
+stmol
+py3Dmol
+requests
+biotite
+numpy
