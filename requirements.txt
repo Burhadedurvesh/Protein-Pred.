@@ -4,3 +4,4 @@ py3Dmol
 requests
 biotite
 numpy
+ipython_genutils
